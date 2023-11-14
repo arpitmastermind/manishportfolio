@@ -327,13 +327,13 @@ section {
   position: relative;
   padding-top: 4vh;
   height: 100vh;
-  margin: 0px 20rem;
+  margin: 0px 10rem;
   box-sizing: border-box;
   min-height: fit-content;
 }
 
 .about-containers{
-  margin-bottom: -0.5rem;
+  margin-bottom: 1rem;
 }
 
 .experience-sub-title {
